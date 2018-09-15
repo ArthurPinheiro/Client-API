@@ -1,4 +1,4 @@
-# client-exemplo
+# Client para uma API. Projeto utiliza o framework VueJs. 
 
 ## Project setup
 ```
